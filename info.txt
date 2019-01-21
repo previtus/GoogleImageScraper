@@ -1,0 +1,6 @@
+We are using hints from the resources:
+- https://gist.github.com/genekogan/ebd77196e4bf0705db51f86431099e57
+- Search API of https://serpapi.com/images-results
+
+
+(Also might be interesting ...)
